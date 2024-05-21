@@ -1,0 +1,19 @@
+{
+  "name": "myblogsite",
+  "version": "1.0.0",
+  "description": "this is my complete full stack website going to be completely based on express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "siddharth gautam",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-handlebars": "^7.1.2",
+    "express-validator": "^7.1.0",
+    "mongoose": "^8.4.0",
+    "slice-html": "^1.0.2"
+  }
+}
